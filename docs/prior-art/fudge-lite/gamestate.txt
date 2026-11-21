@@ -1,0 +1,54 @@
+[1;33m═══════════════════════════════════════[0m
+[1;36mCHARACTER: [1;37mLysander Vex[0m
+[1;33m═══════════════════════════════════════[0m
+
+[1;36mHEALTH:[0m [1;37mUndamaged[0m
+
+[1;36mDESCRIPTION:[0m
+[1;37mLean, sharp-featured man in his late 20s with hollow cheeks and restless grey eyes. Unkempt black hair streaked with premature grey at the temples. Wears a patched navy greatcoat over a stained waistcoat. Fingers are ink-stained and calloused. A brass-and-copper headset with crystal earpieces is always around his neck or on his ears. Moves with the coiled tension of someone used to being hunted.[0m
+
+[1;36mLOCATION & SCENE:[0m
+[1;37mPort Obscura — The Rusted Tankard tavern. A low-ceilinged den of salt-crusted wood and flickering oil lamps. Rain lashes the grimy windows; the cobbled street outside is slick and black. The air is thick with smoked fish, cheap gin, and the faint metallic tang of ozone. A dead priest's last transmission crackles through your headset — his voice was choked, urgent, trying to say something about the "Deep Broadcast" before the signal died. A hooded figure in the corner keeps glancing your way, fingers drumming on a wet wooden table.[0m
+
+[1;33m─ ABILITIES ─[0m
+[1;37mStrength: Mediocre (-1)
+Dexterity: Good (+1)
+Constitution: Fair (0)
+Intelligence: Good (+1)
+Wisdom: Great (+2)[0m
+
+[1;33m─ SKILLS ─[0m
+[1;37mSignal Reading: Great (+2)
+Lockpicking: Good (+1)
+Stealth: Fair (0)
+Investigation: Good (+1)
+Athletics: Mediocre (-1)[0m
+
+[1;33m─ POWERS ─[0m
+[1;37mStatic Hearing (can perceive the voices of the dead in radio static and electromagnetic fields)
+Psychic Dampening (can briefly silence the Static in a small radius)[0m
+
+[1;33m─ GIFTS ─[0m
+[1;37mNaturally attuned to electromagnetic frequencies
+Has a contact in the Port Authority (Harlow, the night ledger-keeper)[0m
+
+[1;33m─ FAULTS ─[0m
+[1;37mHaunted by the voice of his deceased sister Mira (constant distraction)
+Addicted to static-bloom (a drug that quiets the voices; withdrawal causes migraines and paranoia)
+Wanted by the Church of the Silent Bell (they consider Receivers abominations)[0m
+
+[1;33m─ INVENTORY ─[0m
+[1;37mModified radio-receiver headset (brass and copper, crystal earpieces)
+Static-bloom inhaler (3 doses remaining)
+Lockpick set (well-worn)
+Folding knife
+Coin purse (23 silver sovereigns)
+Waterproof greatcoat (navy blue, patched)
+Journal of transcribed static-messages[0m
+
+[1;33m─ OBJECTIVES ─[0m
+[1;37mDecode the dead priest's final transmission about the "Deep Broadcast"
+Find out who killed him and why
+Secure another dose of static-bloom before withdrawal sets in[0m
+
+[1;33m═══════════════════════════════════════[0m

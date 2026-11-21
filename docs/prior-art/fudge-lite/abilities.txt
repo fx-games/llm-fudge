@@ -1,0 +1,6 @@
+Strength: Mediocre (-1)
+Dexterity: Good (+1)
+Constitution: Fair (0)
+Intelligence: Good (+1)
+Wisdom: Great (+2)
+Charisma: Poor (-2)

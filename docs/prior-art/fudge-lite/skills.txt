@@ -1,0 +1,6 @@
+Signal Reading: Great (+2)
+Lockpicking: Good (+1)
+Stealth: Fair (0)
+Investigation: Good (+1)
+Athletics: Mediocre (-1)
+Rapport: Poor (-2)
